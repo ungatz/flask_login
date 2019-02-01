@@ -37,5 +37,5 @@
 
 The local server will start on localhost port 5000 aka '127.0.0.1:5000.
 
-###if any errors occur during execution contact me on +91-960-448-4805 ###
+
 				
